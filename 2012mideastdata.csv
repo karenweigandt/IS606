@@ -1,0 +1,744 @@
+unitid,institution name,year,HD2012.State abbreviation,HD2012.Degree of urbanization (Urban-centric locale),IC2012_RV.All programs offered completely via distance education,IC2012_RV.Undergraduate programs or courses are offered via distance education,IC2012_RV.Graduate programs or courses are offered via distance education,IC2012_RV.Does not offer distance education opportunities,C2012_B_RV.Grand total,XCSTOTLT,C2012_B_RV.Grand total men,XCSTOTLM,C2012_B_RV.Grand total women,XCSTOTLW
+130581,Tri-State College of Acupuncture,2012,New York,City: Large,No,Implied no,Implied no,Yes,61,R,18,R,43,R
+130882,Delaware Technical Community College-Central Office,2012,Delaware,City: Small,Not applicable,Not applicable,Not applicable,Not applicable,,,,,,
+130891,Delaware Technical Community College-Owens,2012,Delaware,Town: Fringe,No,Yes,Implied no,Implied no,702,R,279,R,423,R
+130907,Delaware Technical Community College-Terry,2012,Delaware,City: Small,No,Yes,Implied no,Implied no,447,R,150,R,297,R
+130916,Delaware Technical Community College-Stanton/Wilmington,2012,Delaware,City: Small,No,Yes,Implied no,Implied no,625,R,254,R,371,R
+130934,Delaware State University,2012,Delaware,City: Small,No,Yes,Yes,Implied no,631,R,215,R,416,R
+130943,University of Delaware,2012,Delaware,Suburb: Large,No,Yes,Yes,Implied no,4885,R,2091,R,2794,R
+130989,Goldey-Beacom College,2012,Delaware,Suburb: Large,No,Implied no,Implied no,Yes,354,R,168,R,186,R
+131098,Wesley College,2012,Delaware,City: Small,No,Implied no,Implied no,Yes,323,R,115,R,208,R
+131113,Wilmington University,2012,Delaware,Suburb: Large,No,Yes,Yes,Implied no,2991,R,1011,R,1980,R
+131159,American University,2012,District of Columbia,City: Large,No,Yes,Yes,Implied no,3733,R,1481,R,2252,R
+131283,Catholic University of America,2012,District of Columbia,City: Large,No,Yes,Yes,Implied no,1727,R,754,R,973,R
+131308,Corcoran College of Art and Design,2012,District of Columbia,City: Large,No,Implied no,Implied no,Yes,150,R,29,R,121,R
+131399,University of the District of Columbia,2012,District of Columbia,City: Large,No,Yes,Yes,Implied no,631,R,256,R,375,R
+131405,Pontifical Faculty of the Immaculate Conception at the Dominican House of Studies,2012,District of Columbia,City: Large,No,Implied no,Implied no,Yes,10,R,9,R,1,R
+131450,Gallaudet University,2012,District of Columbia,City: Large,No,Yes,Yes,Implied no,337,R,112,R,225,R
+131469,George Washington University,2012,District of Columbia,City: Large,No,Yes,Yes,Implied no,8028,R,3496,R,4532,R
+131496,Georgetown University,2012,District of Columbia,City: Large,No,Implied no,Yes,Implied no,5624,R,2820,R,2804,R
+131520,Howard University,2012,District of Columbia,City: Large,No,Yes,Implied no,Implied no,2276,R,724,R,1552,R
+131803,Strayer University-District of Columbia,2012,District of Columbia,City: Large,No,Yes,Yes,Implied no,273,R,111,R,162,R
+131876,Trinity Washington University,2012,District of Columbia,City: Large,No,Implied no,Yes,Implied no,469,R,47,R,422,R
+131973,Wesley Theological Seminary,2012,District of Columbia,City: Large,No,Implied no,Yes,Implied no,146,R,84,R,62,R
+161688,Allegany College of Maryland,2012,Maryland,City: Small,No,Yes,Implied no,Implied no,662,R,158,R,504,R
+161767,Anne Arundel Community College,2012,Maryland,Suburb: Large,No,Yes,Implied no,Implied no,2057,R,710,R,1347,R
+161776,TESST College of Technology-Towson,2012,Maryland,City: Small,No,Implied no,Implied no,Yes,253,R,52,R,201,R
+161864,Baltimore City Community College,2012,Maryland,City: Large,No,Yes,Implied no,Implied no,582,R,170,R,412,R
+161873,University of Baltimore,2012,Maryland,City: Large,No,Yes,Yes,Implied no,1474,R,596,R,878,R
+162007,Bowie State University,2012,Maryland,Suburb: Large,No,Yes,Yes,Implied no,980,R,306,R,674,R
+162061,Capitol College,2012,Maryland,Suburb: Large,No,Yes,Yes,Implied no,190,R,152,R,38,R
+162104,Cecil College,2012,Maryland,Rural: Fringe,No,Yes,Implied no,Implied no,255,R,88,R,167,R
+162122,College of Southern Maryland,2012,Maryland,Rural: Fringe,No,Yes,Implied no,Implied no,980,R,304,R,676,R
+162168,Chesapeake College,2012,Maryland,Rural: Distant,No,Yes,Implied no,Implied no,308,R,97,R,211,R
+162210,Washington Adventist University,2012,Maryland,Suburb: Large,No,Yes,Yes,Implied no,315,R,86,R,229,R
+162283,Coppin State University,2012,Maryland,City: Large,No,Yes,Implied no,Implied no,514,R,110,R,404,R
+162557,Frederick Community College,2012,Maryland,City: Small,No,Yes,Implied no,Implied no,961,R,376,R,585,R
+162584,Frostburg State University,2012,Maryland,Suburb: Small,No,Yes,Yes,Implied no,1067,R,491,R,576,R
+162609,Garrett College,2012,Maryland,Rural: Distant,No,Yes,Implied no,Implied no,132,R,66,R,66,R
+162654,Goucher College,2012,Maryland,City: Small,No,Implied no,Yes,Implied no,460,R,123,R,337,R
+162681,Kaplan University-Hagerstown Campus,2012,Maryland,Suburb: Midsize,No,Yes,Yes,Implied no,375,R,108,R,267,R
+162690,Hagerstown Community College,2012,Maryland,Suburb: Midsize,No,Yes,Implied no,Implied no,821,R,367,R,454,R
+162706,Harford Community College,2012,Maryland,Rural: Fringe,No,Yes,Implied no,Implied no,845,R,307,R,538,R
+162760,Hood College,2012,Maryland,City: Small,No,Implied no,Implied no,Yes,596,R,192,R,404,R
+162779,Howard Community College,2012,Maryland,City: Small,No,Yes,Implied no,Implied no,978,R,393,R,585,R
+162928,Johns Hopkins University,2012,Maryland,City: Large,No,Implied no,Yes,Implied no,7681,R,3531,R,4150,R
+163028,Lincoln College of Technology-Columbia,2012,Maryland,City: Small,No,Implied no,Implied no,Yes,633,R,578,R,55,R
+163046,Loyola University Maryland,2012,Maryland,City: Large,No,Yes,Yes,Implied no,1702,R,618,R,1084,R
+163204,University of Maryland-University College,2012,Maryland,Suburb: Large,No,Yes,Yes,Implied no,8393,R,3645,R,4748,R
+163259,University of Maryland-Baltimore,2012,Maryland,City: Large,No,Yes,Yes,Implied no,2120,R,537,R,1583,R
+163268,University of Maryland-Baltimore County,2012,Maryland,Suburb: Large,No,Yes,Yes,Implied no,2835,R,1413,R,1422,R
+163286,University of Maryland-College Park,2012,Maryland,Suburb: Large,No,Yes,Yes,Implied no,9707,R,5005,R,4702,R
+163295,Maryland Institute College of Art,2012,Maryland,City: Large,No,Implied no,Yes,Implied no,524,R,170,R,354,R
+163338,University of Maryland Eastern Shore,2012,Maryland,Town: Fringe,No,Yes,Yes,Implied no,758,R,298,R,460,R
+163426,Montgomery College,2012,Maryland,City: Small,No,Yes,Implied no,Implied no,2548,R,1092,R,1456,R
+163453,Morgan State University,2012,Maryland,City: Large,No,Yes,Yes,Implied no,1191,R,472,R,719,R
+163462,Mount St Mary's University,2012,Maryland,Town: Fringe,No,Yes,Yes,Implied no,525,R,247,R,278,R
+163532,Ner Israel Rabbinical College,2012,Maryland,Suburb: Large,No,Implied no,Implied no,Yes,119,R,119,R,0,Z
+163578,Notre Dame of Maryland University,2012,Maryland,City: Large,No,Yes,Yes,Implied no,705,R,83,R,622,R
+163657,Prince George's Community College,2012,Maryland,Suburb: Large,No,Yes,Implied no,Implied no,997,R,300,R,697,R
+163736,TESST College of Technology-Baltimore,2012,Maryland,City: Large,No,Implied no,Implied no,Yes,508,R,176,R,332,R
+163842,St Mary's Seminary & University,2012,Maryland,City: Large,No,Implied no,Implied no,Yes,49,R,30,R,19,R
+163851,Salisbury University,2012,Maryland,Suburb: Small,No,Yes,Yes,Implied no,1983,R,779,R,1204,R
+163912,St Mary's College of Maryland,2012,Maryland,Suburb: Small,No,Implied no,Implied no,Yes,470,R,185,R,285,R
+163921,Sojourner-Douglass College,2012,Maryland,City: Large,No,Yes,Implied no,Implied no,222,R,24,R,198,R
+163976,St John's College,2012,Maryland,Suburb: Large,No,Implied no,Implied no,Yes,159,R,85,R,74,R
+164058,TESST College of Technology-Beltsville,2012,Maryland,Suburb: Large,No,Implied no,Implied no,Yes,304,R,143,R,161,R
+164076,Towson University,2012,Maryland,City: Small,No,Yes,Yes,Implied no,5208,R,1902,R,3306,R
+164085,Maryland University of Integrative Health,2012,Maryland,Suburb: Large,No,Implied no,Implied no,Yes,162,R,19,R,143,R
+164146,University System of Maryland,2012,Maryland,Suburb: Large,Not applicable,Not applicable,Not applicable,Not applicable,,,,,,
+164173,Stevenson University,2012,Maryland,Rural: Fringe,No,Yes,Yes,Implied no,866,R,236,R,630,R
+164207,Washington Bible College-Capital Bible Seminary,2012,Maryland,Suburb: Large,No,Yes,Yes,Implied no,82,R,34,R,48,R
+164216,Washington College,2012,Maryland,Town: Distant,No,Implied no,Implied no,Yes,334,R,137,R,197,R
+164243,Washington Theological Union,2012,District of Columbia,City: Large,No,Implied no,Yes,Implied no,47,R,32,R,15,R
+164270,McDaniel College,2012,Maryland,Suburb: Small,No,Yes,Yes,Implied no,806,R,274,R,532,R
+164313,Wor-Wic Community College,2012,Maryland,Rural: Fringe,No,Yes,Implied no,Implied no,471,R,156,R,315,R
+183655,Atlantic Cape Community College,2012,New Jersey,Rural: Fringe,No,Yes,Implied no,Implied no,811,R,300,R,511,R
+183743,Bergen Community College,2012,New Jersey,Suburb: Large,No,Yes,Implied no,Implied no,2034,R,887,R,1147,R
+183789,Berkeley College-Woodland Park,2012,New Jersey,Suburb: Large,No,Yes,Implied no,Implied no,825,R,218,R,607,R
+183804,Beth Medrash Govoha,2012,New Jersey,City: Small,No,Implied no,Implied no,Yes,1176,R,1176,R,0,Z
+183822,Bloomfield College,2012,New Jersey,Suburb: Large,No,Yes,Yes,Implied no,277,R,104,R,173,R
+183859,Brookdale Community College,2012,New Jersey,Rural: Fringe,No,Yes,Implied no,Implied no,2081,R,961,R,1120,R
+183877,Burlington County College,2012,New Jersey,Rural: Fringe,No,Yes,Implied no,Implied no,1277,R,443,R,834,R
+183910,Caldwell College,2012,New Jersey,Suburb: Large,No,Yes,Yes,Implied no,487,R,154,R,333,R
+183938,Camden County College,2012,New Jersey,Suburb: Large,No,Yes,Implied no,Implied no,1779,R,595,R,1184,R
+183974,Centenary College,2012,New Jersey,Suburb: Large,No,Yes,Yes,Implied no,842,R,304,R,538,R
+184180,County College of Morris,2012,New Jersey,Suburb: Large,No,Yes,Implied no,Implied no,1102,R,528,R,574,R
+184205,Cumberland County College,2012,New Jersey,Rural: Fringe,No,Yes,Implied no,Implied no,588,R,171,R,417,R
+184269,DeVry University-New Jersey,2012,New Jersey,Suburb: Large,No,Yes,Implied no,Implied no,336,R,240,R,96,R
+184348,Drew University,2012,New Jersey,Suburb: Large,No,Implied no,Yes,Implied no,534,R,213,R,321,R
+184481,Essex County College,2012,New Jersey,City: Large,No,Yes,Implied no,Implied no,1298,R,445,R,853,R
+184603,Fairleigh Dickinson University-Metropolitan Campus,2012,New Jersey,Suburb: Large,No,Yes,Yes,Implied no,1952,R,879,R,1073,R
+184612,Felician College,2012,New Jersey,Suburb: Large,No,Implied no,Yes,Implied no,543,R,115,R,428,R
+184694,Fairleigh Dickinson University-College at Florham,2012,New Jersey,Suburb: Large,No,Yes,Yes,Implied no,739,R,323,R,416,R
+184773,Georgian Court University,2012,New Jersey,City: Small,No,Yes,Yes,Implied no,625,R,58,R,567,R
+184782,Rowan University,2012,New Jersey,Suburb: Large,No,Yes,Yes,Implied no,2487,R,1077,R,1410,R
+184791,Gloucester County College,2012,New Jersey,Suburb: Large,No,Yes,Implied no,Implied no,874,R,363,R,511,R
+184959,Eastwick College-Ramsey,2012,New Jersey,Suburb: Large,No,Implied no,Implied no,Yes,550,R,85,R,465,R
+184995,Hudson County Community College,2012,New Jersey,City: Large,No,Yes,Implied no,Implied no,857,R,280,R,577,R
+185129,New Jersey City University,2012,New Jersey,City: Large,No,Yes,Yes,Implied no,1645,R,542,R,1103,R
+185262,Kean University,2012,New Jersey,Suburb: Large,No,Yes,Yes,Implied no,3315,R,1118,R,2197,R
+185509,Mercer County Community College,2012,New Jersey,Rural: Fringe,No,Yes,Implied no,Implied no,978,R,390,R,588,R
+185536,Middlesex County College,2012,New Jersey,Suburb: Large,No,Yes,Implied no,Implied no,1472,R,615,R,857,R
+185572,Monmouth University,2012,New Jersey,Suburb: Large,No,Yes,Yes,Implied no,1740,R,638,R,1102,R
+185590,Montclair State University,2012,New Jersey,Suburb: Large,No,Yes,Yes,Implied no,4307,R,1454,R,2853,R
+185758,New Brunswick Theological Seminary,2012,New Jersey,City: Small,No,Implied no,Implied no,Yes,37,R,14,R,23,R
+185828,New Jersey Institute of Technology,2012,New Jersey,City: Large,No,Yes,Yes,Implied no,2107,R,1542,R,565,R
+185873,Ocean County College,2012,New Jersey,Suburb: Large,No,Yes,Implied no,Implied no,1483,R,578,R,905,R
+186034,Passaic County Community College,2012,New Jersey,Suburb: Large,No,Yes,Implied no,Implied no,596,R,193,R,403,R
+186122,Princeton Theological Seminary,2012,New Jersey,Suburb: Large,No,Implied no,Implied no,Yes,196,R,117,R,79,R
+186131,Princeton University,2012,New Jersey,Suburb: Large,No,Implied no,Implied no,Yes,2072,R,1140,R,932,R
+186186,Rabbinical College of America,2012,New Jersey,Suburb: Large,No,Implied no,Implied no,Yes,10,R,10,R,0,Z
+186201,Ramapo College of New Jersey,2012,New Jersey,Suburb: Large,No,Yes,Yes,Implied no,1456,R,590,R,866,R
+186283,Rider University,2012,New Jersey,Suburb: Large,No,Yes,Yes,Implied no,1322,R,508,R,814,R
+186371,Rutgers University-Camden,2012,New Jersey,City: Small,No,Yes,Yes,Implied no,1519,R,715,R,804,R
+186380,Rutgers University-New Brunswick,2012,New Jersey,City: Small,No,Yes,Yes,Implied no,9416,R,4358,R,5058,R
+186399,Rutgers University-Newark,2012,New Jersey,City: Large,No,Yes,Yes,Implied no,2941,R,1422,R,1519,R
+186432,Saint Peter's University,2012,New Jersey,City: Large,No,Yes,Yes,Implied no,736,R,282,R,454,R
+186469,Salem Community College,2012,New Jersey,Rural: Fringe,No,Yes,Implied no,Implied no,221,R,78,R,143,R
+186584,Seton Hall University,2012,New Jersey,Suburb: Large,No,Yes,Yes,Implied no,2690,R,1138,R,1552,R
+186618,College of Saint Elizabeth,2012,New Jersey,Suburb: Large,No,Yes,Yes,Implied no,617,R,83,R,534,R
+186645,Raritan Valley Community College,2012,New Jersey,Rural: Fringe,No,Yes,Implied no,Implied no,1022,R,500,R,522,R
+186867,Stevens Institute of Technology,2012,New Jersey,Suburb: Large,No,Implied no,Implied no,Yes,1813,R,1334,R,479,R
+186876,The Richard Stockton College of New Jersey,2012,New Jersey,Suburb: Midsize,No,Yes,Yes,Implied no,2015,R,784,R,1231,R
+186900,Talmudical Academy-New Jersey,2012,New Jersey,Suburb: Large,No,Implied no,Implied no,Yes,7,R,7,R,0,Z
+187046,Thomas Edison State College,2012,New Jersey,City: Small,No,Yes,Yes,Implied no,3188,R,1755,R,1433,R
+187134,The College of New Jersey,2012,New Jersey,Suburb: Large,No,Implied no,Implied no,Yes,2034,R,762,R,1272,R
+187198,Union County College,2012,New Jersey,Suburb: Large,No,Yes,Implied no,Implied no,1129,R,369,R,760,R
+187222,University of Medicine and Dentistry of New Jersey,2012,New Jersey,City: Large,No,Yes,Yes,Implied no,2034,R,666,R,1368,R
+187444,William Paterson University of New Jersey,2012,New Jersey,Suburb: Large,No,Yes,Yes,Implied no,2298,R,904,R,1394,R
+188340,Vaughn College of Aeronautics and Technology,2012,New York,City: Large,No,Yes,Yes,Implied no,295,R,250,R,45,R
+188429,Adelphi University,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,2493,R,576,R,1917,R
+188438,Adirondack Community College,2012,New York,Suburb: Small,No,Yes,Implied no,Implied no,511,R,200,R,311,R
+188465,Globe Institute of Technology,2012,New York,City: Large,No,Implied no,Implied no,Yes,88,R,53,R,35,R
+188517,Bryant & Stratton College-Albany,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,238,R,59,R,179,R
+188526,Albany College of Pharmacy and Health Sciences,2012,New York,City: Small,No,Implied no,Implied no,Yes,255,R,105,R,150,R
+188535,Albany Law School,2012,New York,City: Small,No,Implied no,Yes,Implied no,234,R,127,R,107,R
+188580,Albany Medical College,2012,New York,City: Small,No,Implied no,Yes,Implied no,211,R,90,R,121,R
+188641,Alfred University,2012,New York,Town: Remote,No,Implied no,Yes,Implied no,649,R,278,R,371,R
+188678,American Academy of Dramatic Arts-New York,2012,New York,City: Large,No,Implied no,Implied no,Yes,97,R,37,R,60,R
+188687,American Academy McAllister Institute of Funeral Service,2012,New York,City: Large,No,Yes,Implied no,Implied no,104,R,54,R,50,R
+188854,American Musical and Dramatic Academy,2012,New York,City: Large,No,Implied no,Implied no,Yes,361,R,129,R,232,R
+189015,Bank Street College of Education,2012,New York,City: Large,No,Implied no,Yes,Implied no,352,R,38,R,314,R
+189088,Bard College,2012,New York,Town: Fringe,No,Implied no,Implied no,Yes,918,R,338,R,580,R
+189097,Barnard College,2012,New York,City: Large,No,Implied no,Implied no,Yes,592,R,0,R,592,R
+189228,Berkeley College-New York,2012,New York,City: Large,No,Yes,Implied no,Implied no,1043,R,298,R,745,R
+189264,Beth Hatalmud Rabbinical College,2012,New York,City: Large,No,Implied no,Implied no,Yes,2,R,2,R,0,Z
+189273,Beth Hamedrash Shaarei Yosher Institute,2012,New York,City: Large,No,Implied no,Implied no,Yes,5,R,5,R,0,Z
+189282,Phillips Beth Israel School of Nursing,2012,New York,City: Large,No,Yes,Implied no,Implied no,99,R,25,R,74,R
+189413,Boricua College,2012,New York,City: Large,No,Implied no,Implied no,Yes,370,R,61,R,309,R
+189422,Bramson ORT College,2012,New York,City: Large,No,Yes,Implied no,Implied no,258,R,79,R,179,R
+189459,Briarcliffe College,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,583,R,291,R,292,R
+189501,Brooklyn Law School,2012,New York,City: Large,No,Implied no,Implied no,Yes,467,R,245,R,222,R
+189547,SUNY Broome Community College,2012,New York,Suburb: Midsize,No,Yes,Implied no,Implied no,1085,R,429,R,656,R
+189556,Bryant & Stratton College-Amherst,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,148,R,35,R,113,R
+189565,Bryant & Stratton College-Syracuse North,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,176,R,44,R,132,R
+189574,Bryant & Stratton College-Syracuse,2012,New York,City: Midsize,No,Yes,Implied no,Implied no,153,R,37,R,116,R
+189583,Bryant & Stratton College-Buffalo,2012,New York,City: Large,No,Yes,Implied no,Implied no,162,R,24,R,138,R
+189592,Bryant & Stratton College-Greece,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,128,R,22,R,106,R
+189653,Business Informatics Center Inc,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,31,R,2,R,29,R
+189705,Canisius College,2012,New York,City: Large,No,Yes,Yes,Implied no,1508,R,645,R,863,R
+189811,St Paul's School of Nursing-Queens,2012,New York,City: Large,No,Implied no,Implied no,Yes,143,R,25,R,118,R
+189839,Cayuga County Community College,2012,New York,Town: Distant,No,Yes,Implied no,Implied no,623,R,238,R,385,R
+189848,Cazenovia College,2012,New York,Town: Fringe,No,Yes,Implied no,Implied no,260,R,67,R,193,R
+189857,Central Yeshiva Tomchei Tmimim Lubavitz,2012,New York,City: Large,No,Implied no,Implied no,Yes,124,R,124,R,0,Z
+189981,Christ the King Seminary,2012,New York,Rural: Fringe,No,Implied no,Yes,Implied no,11,R,5,R,6,R
+190035,CUNY System Office,2012,New York,City: Large,Not applicable,Not applicable,Not applicable,Not applicable,,,,,,
+190044,Clarkson University,2012,New York,Town: Remote,No,Yes,Yes,Implied no,787,R,537,R,250,R
+190053,Clinton Community College,2012,New York,Town: Distant,No,Yes,Implied no,Implied no,347,R,131,R,216,R
+190071,Cochran School of Nursing,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,77,R,9,R,68,R
+190080,Colgate Rochester Crozer Divinity School,2012,New York,City: Midsize,No,Implied no,Implied no,Yes,29,R,13,R,16,R
+190099,Colgate University,2012,New York,Town: Distant,No,Implied no,Implied no,Yes,726,R,345,R,381,R
+190114,Metropolitan College of New York,2012,New York,City: Large,No,Yes,Yes,Implied no,493,R,147,R,346,R
+190150,Columbia University in the City of New York,2012,New York,City: Large,No,Implied no,Yes,Implied no,10881,R,5235,R,5646,R
+190169,Columbia-Greene Community College,2012,New York,Rural: Fringe,No,Yes,Implied no,Implied no,333,R,116,R,217,R
+190248,Concordia College-New York,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,155,R,53,R,102,R
+190372,Cooper Union for the Advancement of Science and Art,2012,New York,City: Large,No,Implied no,Implied no,Yes,199,R,119,R,80,R
+190415,Cornell University,2012,New York,City: Small,No,Implied no,Yes,Implied no,6521,R,3567,R,2954,R
+190424,Weill Cornell Medical College,2012,New York,City: Large,No,Implied no,Yes,Implied no,219,R,102,R,117,R
+190442,Corning Community College,2012,New York,Rural: Fringe,No,Yes,Implied no,Implied no,663,R,273,R,390,R
+190451,Crouse Hospital College of Nursing,2012,New York,City: Midsize,No,Implied no,Implied no,Yes,89,R,8,R,81,R
+190503,Culinary Institute of America,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,1590,R,854,R,736,R
+190512,CUNY Bernard M Baruch College,2012,New York,City: Large,No,Yes,Yes,Implied no,4181,R,1973,R,2208,R
+190521,CUNY Borough of Manhattan Community College,2012,New York,City: Large,No,Yes,Implied no,Implied no,3016,R,1104,R,1912,R
+190530,CUNY Bronx Community College,2012,New York,City: Large,No,Yes,Implied no,Implied no,1275,R,438,R,837,R
+190549,CUNY Brooklyn College,2012,New York,City: Large,No,Yes,Yes,Implied no,3708,R,1327,R,2381,R
+190558,College of Staten Island CUNY,2012,New York,City: Large,No,Yes,Yes,Implied no,2190,R,763,R,1427,R
+190567,CUNY City College,2012,New York,City: Large,No,Yes,Yes,Implied no,2884,R,1262,R,1622,R
+190576,CUNY Graduate School and University Center,2012,New York,City: Large,No,Yes,Yes,Implied no,1799,R,698,R,1101,R
+190585,CUNY Hostos Community College,2012,New York,City: Large,No,Yes,Implied no,Implied no,725,R,201,R,524,R
+190594,CUNY Hunter College,2012,New York,City: Large,No,Yes,Yes,Implied no,4903,R,1287,R,3616,R
+190600,CUNY John Jay College of Criminal Justice,2012,New York,City: Large,No,Yes,Yes,Implied no,2944,R,1173,R,1771,R
+190619,CUNY Kingsborough Community College,2012,New York,City: Large,No,Yes,Implied no,Implied no,2289,R,919,R,1370,R
+190628,CUNY LaGuardia Community College,2012,New York,City: Large,No,Yes,Implied no,Implied no,3044,R,1150,R,1894,R
+190637,CUNY Lehman College,2012,New York,City: Large,No,Yes,Yes,Implied no,2351,R,641,R,1710,R
+190646,CUNY Medgar Evers College,2012,New York,City: Large,No,Yes,Implied no,Implied no,962,R,215,R,747,R
+190655,CUNY New York City College of Technology,2012,New York,City: Large,No,Yes,Implied no,Implied no,1902,R,873,R,1029,R
+190664,CUNY Queens College,2012,New York,City: Large,No,Yes,Yes,Implied no,4617,R,1603,R,3014,R
+190673,CUNY Queensborough Community College,2012,New York,City: Large,No,Yes,Implied no,Implied no,1748,R,744,R,1004,R
+190682,CUNY School of Law at Queens College,2012,New York,City: Large,No,Implied no,Implied no,Yes,138,R,50,R,88,R
+190691,CUNY York College,2012,New York,City: Large,No,Yes,Implied no,Implied no,1000,R,281,R,719,R
+190716,D'Youville College,2012,New York,City: Large,No,Yes,Yes,Implied no,724,R,201,R,523,R
+190725,Daemen College,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,817,R,167,R,650,R
+190734,Darkei Noam Rabbinical College,2012,New York,City: Large,No,Implied no,Implied no,Yes,4,R,4,R,0,Z
+190761,Dominican College of Blauvelt,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,437,R,127,R,310,R
+190770,Dowling College,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,1171,R,461,R,710,R
+190840,Dutchess Community College,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,1136,R,443,R,693,R
+190956,Belanger School of Nursing,2012,New York,City: Small,No,Yes,Implied no,Implied no,50,R,11,R,39,R
+190974,Elmira Business Institute,2012,New York,City: Small,No,Implied no,Implied no,Yes,191,R,22,R,169,R
+190983,Elmira College,2012,New York,City: Small,No,Implied no,Implied no,Yes,376,R,97,R,279,R
+191083,Erie Community College,2012,New York,City: Large,No,Yes,Implied no,Implied no,2282,R,1081,R,1201,R
+191126,Fashion Institute of Technology,2012,New York,City: Large,No,Yes,Implied no,Implied no,3306,R,442,R,2864,R
+191199,Finger Lakes Community College,2012,New York,Rural: Fringe,No,Yes,Implied no,Implied no,929,R,394,R,535,R
+191205,Five Towns College,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,203,R,134,R,69,R
+191241,Fordham University,2012,New York,City: Large,No,Implied no,Yes,Implied no,4615,R,1941,R,2674,R
+191302,Fulton-Montgomery Community College,2012,New York,Rural: Fringe,No,Yes,Implied no,Implied no,465,R,203,R,262,R
+191320,The General Theological Seminary,2012,New York,City: Large,No,Implied no,Implied no,Yes,54,R,33,R,21,R
+191339,Genesee Community College,2012,New York,Town: Distant,No,Yes,Implied no,Implied no,867,R,277,R,590,R
+191515,Hamilton College,2012,New York,Rural: Fringe,No,Implied no,Implied no,Yes,462,R,198,R,264,R
+191533,Hartwick College,2012,New York,Town: Remote,No,Implied no,Implied no,Yes,301,R,106,R,195,R
+191597,Helene Fuld College of Nursing,2012,New York,City: Large,No,Implied no,Implied no,Yes,217,R,17,R,200,R
+191612,Herkimer County Community College,2012,New York,Rural: Fringe,No,Yes,Implied no,Implied no,638,R,233,R,405,R
+191621,Hilbert College,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,208,R,74,R,134,R
+191630,Hobart William Smith Colleges,2012,New York,Town: Distant,No,Implied no,Implied no,Yes,470,R,218,R,252,R
+191649,Hofstra University,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,3221,R,1359,R,1862,R
+191676,Houghton College,2012,New York,Rural: Remote,No,Yes,Implied no,Implied no,347,R,115,R,232,R
+191719,Hudson Valley Community College,2012,New York,City: Small,No,Yes,Implied no,Implied no,2172,R,1148,R,1024,R
+191764,Institute of Design and Construction,2012,New York,City: Large,No,Implied no,Implied no,Yes,16,R,10,R,6,R
+191931,Iona College,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,1256,R,518,R,738,R
+191959,Island Drafting and Technical Institute,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,61,R,53,R,8,R
+191968,Ithaca College,2012,New York,Suburb: Small,No,Yes,Yes,Implied no,1551,R,606,R,945,R
+191986,Jamestown Community College,2012,New York,Town: Remote,No,Yes,Implied no,Implied no,831,R,339,R,492,R
+192004,Jamestown Business College,2012,New York,Town: Remote,No,Implied no,Implied no,Yes,132,R,35,R,97,R
+192022,Jefferson Community College,2012,New York,City: Small,No,Yes,Implied no,Implied no,654,R,226,R,428,R
+192040,Jewish Theological Seminary of America,2012,New York,City: Large,No,Implied no,Yes,Implied no,111,R,49,R,62,R
+192110,The Juilliard School,2012,New York,City: Large,No,Implied no,Implied no,Yes,277,R,152,R,125,R
+192156,SBI Campus-An Affiliate of Sanford-Brown,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,233,R,62,R,171,R
+192165,Kehilath Yakov Rabbinical Seminary,2012,New York,Rural: Fringe,No,Implied no,Implied no,Yes,14,R,14,R,0,Z
+192192,Keuka College,2012,New York,Town: Distant,No,Yes,Implied no,Implied no,573,R,138,R,435,R
+192271,LIM College,2012,New York,City: Large,No,Yes,Yes,Implied no,340,R,14,R,326,R
+192323,Le Moyne College,2012,New York,City: Midsize,No,Implied no,Implied no,Yes,837,R,293,R,544,R
+192439,LIU Brooklyn,2012,New York,City: Large,No,Implied no,Yes,Implied no,1927,R,530,R,1397,R
+192448,LIU Post,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,1953,R,638,R,1315,R
+192457,LIU-University Center Campus,2012,New York,Suburb: Large,Not applicable,Not applicable,Not applicable,Not applicable,,,,,,
+192509,Long Island Business Institute,2012,New York,City: Large,No,Implied no,Implied no,Yes,289,R,87,R,202,R
+192554,LIU Hudson at Rockland,2012,New York,Suburb: Large,No,Implied no,Yes,Implied no,159,R,47,R,112,R
+192563,LIU Brentwood,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,179,R,18,R,161,R
+192624,Machzikei Hadath Rabbinical College,2012,New York,City: Large,No,Implied no,Implied no,Yes,23,R,23,R,0,Z
+192688,Mandl School-The College of Allied Health,2012,New York,City: Large,No,Implied no,Implied no,Yes,315,R,32,R,283,R
+192703,Manhattan College,2012,New York,City: Large,No,Implied no,Implied no,Yes,958,R,490,R,468,R
+192712,Manhattan School of Music,2012,New York,City: Large,No,Implied no,Implied no,Yes,322,R,138,R,184,R
+192749,Manhattanville College,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,760,R,248,R,512,R
+192785,Maria College of Albany,2012,New York,City: Small,No,Yes,Implied no,Implied no,246,R,25,R,221,R
+192819,Marist College,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,1576,R,610,R,966,R
+192864,Marymount Manhattan College,2012,New York,City: Large,No,Implied no,Implied no,Yes,392,R,91,R,301,R
+192925,Medaille College,2012,New York,City: Large,No,Yes,Yes,Implied no,975,R,310,R,665,R
+192961,Memorial School of Nursing,2012,New York,City: Small,No,Implied no,Implied no,Yes,47,R,7,R,40,R
+193016,Mercy College,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,2467,R,564,R,1903,R
+193052,Mesivta Torah Vodaath Rabbinical Seminary,2012,New York,City: Large,No,Implied no,Implied no,Yes,24,R,24,R,0,Z
+193061,Mesivta of Eastern Parkway-Yeshiva Zichron Meilech,2012,New York,City: Large,No,Implied no,Implied no,Yes,1,R,1,R,0,Z
+193070,Mesivtha Tifereth Jerusalem of America,2012,New York,City: Large,No,Yes,Implied no,Implied no,7,R,7,R,0,R
+193201,Mildred Elley School-Albany Campus,2012,New York,City: Small,No,Yes,Implied no,Implied no,287,R,48,R,239,R
+193247,Mirrer Yeshiva Cent Institute,2012,New York,City: Large,No,Implied no,Implied no,Yes,32,R,32,R,0,R
+193283,Mohawk Valley Community College,2012,New York,City: Small,No,Yes,Implied no,Implied no,1041,R,469,R,572,R
+193292,Molloy College,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,950,R,191,R,759,R
+193308,Monroe College,2012,New York,City: Large,No,Yes,Yes,Implied no,2558,R,755,R,1803,R
+193326,Monroe Community College,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,2832,R,1219,R,1613,R
+193353,Mount Saint Mary College,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,608,R,157,R,451,R
+193380,Dorothea Hopfer School of Nursing-Mt Vernon Hospital,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,45,R,4,R,41,R
+193399,College of Mount Saint Vincent,2012,New York,City: Large,No,Implied no,Implied no,Yes,351,R,73,R,278,R
+193405,Icahn School of Medicine at Mount Sinai,2012,New York,City: Large,No,Implied no,Implied no,Yes,237,R,117,R,120,R
+193478,Nassau Community College,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,3119,R,1364,R,1755,R
+193584,Nazareth College,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,973,R,179,R,794,R
+193645,The College of New Rochelle,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,1049,R,92,R,957,R
+193654,The New School,2012,New York,City: Large,No,Yes,Yes,Implied no,3005,R,856,R,2149,R
+193751,New York Chiropractic College,2012,New York,Town: Distant,No,Implied no,Yes,Implied no,213,R,110,R,103,R
+193821,New York Law School,2012,New York,City: Large,No,Implied no,Yes,Implied no,627,R,302,R,325,R
+193830,New York Medical College,2012,New York,Suburb: Large,No,Implied no,Yes,Implied no,357,R,133,R,224,R
+193894,New York Theological Seminary,2012,New York,City: Large,No,Implied no,Yes,Implied no,98,R,49,R,49,R
+193900,New York University,2012,New York,City: Large,No,Yes,Implied no,Implied no,13816,R,5445,R,8371,R
+193946,Niagara County Community College,2012,New York,Rural: Fringe,No,Yes,Implied no,Implied no,1073,R,415,R,658,R
+193973,Niagara University,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,1337,R,446,R,891,R
+194028,North Country Community College,2012,New York,Town: Remote,No,Implied no,Implied no,Yes,318,R,93,R,225,R
+194073,New York College of Podiatric Medicine,2012,New York,City: Large,No,Implied no,Yes,Implied no,80,R,44,R,36,R
+194091,New York Institute of Technology,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,2144,R,1184,R,960,R
+194116,New York School of Interior Design,2012,New York,City: Large,No,Implied no,Implied no,Yes,169,R,22,R,147,R
+194161,Nyack College,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,690,R,263,R,427,R
+194189,Ohr Hameir Theological Seminary,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,1,R,1,R,0,Z
+194204,Olean Business Institute,2012,New York,Town: Remote,No,Implied no,Implied no,Yes,28,R,4,R,24,R
+194222,Onondaga Community College,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,1332,R,631,R,701,R
+194240,Orange County Community College,2012,New York,Suburb: Small,No,Yes,Implied no,Implied no,752,R,270,R,482,R
+194310,Pace University-New York,2012,New York,City: Large,No,Yes,Yes,Implied no,3173,R,1232,R,1941,R
+194392,Paul Smiths College of Arts and Science,2012,New York,Rural: Distant,No,Yes,Implied no,Implied no,208,R,143,R,65,R
+194499,Plaza College,2012,New York,City: Large,No,Implied no,Implied no,Yes,239,R,44,R,195,R
+194541,Polytechnic Institute of New York University,2012,New York,City: Large,No,Implied no,Yes,Implied no,1295,R,947,R,348,R
+194569,Davis College,2012,New York,Suburb: Midsize,No,Yes,Implied no,Implied no,51,R,24,R,27,R
+194578,Pratt Institute-Main,2012,New York,City: Large,No,Implied no,Implied no,Yes,1270,R,408,R,862,R
+194611,Professional Business College,2012,New York,City: Large,No,Implied no,Implied no,Yes,310,R,108,R,202,R
+194657,Rabbinical Academy Mesivta Rabbi Chaim Berlin,2012,New York,City: Large,No,Implied no,Implied no,Yes,45,R,45,R,0,Z
+194666,Rabbinical College Bobover Yeshiva Bnei Zion,2012,New York,City: Large,No,Implied no,Implied no,Yes,55,R,55,R,0,Z
+194675,Rabbinical College of Ch'san Sofer New York,2012,New York,City: Large,No,Implied no,Implied no,Yes,9,R,9,R,0,Z
+194693,Rabbinical College Beth Shraga,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,3,R,3,R,0,Z
+194718,Rabbinical Seminary M'kor Chaim,2012,New York,City: Large,No,Implied no,Implied no,Yes,2,R,2,R,0,Z
+194736,Rabbinical College of Long Island,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,1,R,1,R,0,Z
+194763,Rabbinical Seminary of America,2012,New York,City: Large,No,Implied no,Implied no,Yes,104,R,104,R,0,R
+194824,Rensselaer Polytechnic Institute,2012,New York,City: Small,No,Implied no,Implied no,Yes,1739,R,1226,R,513,R
+194958,Roberts Wesleyan College,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,584,R,158,R,426,R
+194967,Everest Institute-Rochester,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,310,R,73,R,237,R
+195003,Rochester Institute of Technology,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,3628,R,2297,R,1331,R
+195030,University of Rochester,2012,New York,City: Midsize,No,Yes,Yes,Implied no,2944,R,1446,R,1498,R
+195058,Rockland Community College,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,1104,R,500,R,604,R
+195128,The Sage Colleges,2012,New York,City: Small,No,Yes,Yes,Implied no,855,R,140,R,715,R
+195155,St Bernard's School of Theology and Ministry,2012,New York,Suburb: Large,No,Implied no,Yes,Implied no,24,R,17,R,7,R
+195164,St Bonaventure University,2012,New York,Town: Remote,No,Yes,Yes,Implied no,725,R,297,R,428,R
+195173,St Francis College,2012,New York,City: Large,No,Implied no,Implied no,Yes,469,R,195,R,274,R
+195191,St Joseph's College of Nursing at St Joseph's Hospital Health Center,2012,New York,City: Midsize,No,Implied no,Implied no,Yes,112,R,11,R,101,R
+195216,St Lawrence University,2012,New York,Town: Remote,No,Yes,Yes,Implied no,600,R,268,R,332,R
+195234,The College of Saint Rose,2012,New York,City: Small,No,Yes,Yes,Implied no,1670,R,449,R,1221,R
+195243,St Thomas Aquinas College,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,392,R,151,R,241,R
+195289,Samaritan Hospital School of Nursing,2012,New York,City: Small,No,Implied no,Implied no,Yes,69,R,13,R,56,R
+195304,Sarah Lawrence College,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,450,R,104,R,346,R
+195322,Schenectady County Community College,2012,New York,City: Small,No,Yes,Implied no,Implied no,624,R,287,R,337,R
+195438,Sh'or Yoshuv Rabbinical College,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,20,R,20,R,0,Z
+195474,Siena College,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,882,R,404,R,478,R
+195492,Simmons Institute of Funeral Service Inc,2012,New York,City: Midsize,No,Implied no,Implied no,Yes,25,R,14,R,11,R
+195526,Skidmore College,2012,New York,Suburb: Small,No,Implied no,Yes,Implied no,636,R,245,R,391,R
+195544,Saint Joseph's College-New York,2012,New York,City: Large,No,Yes,Yes,Implied no,1465,R,407,R,1058,R
+195580,Saint Vladimirs Orthodox Theological Seminary,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,22,R,20,R,2,R
+195687,Saint Elizabeth College of Nursing,2012,New York,City: Small,No,Yes,Implied no,Implied no,85,R,10,R,75,R
+195720,Saint John Fisher College,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,1112,R,412,R,700,R
+195784,St Paul's School of Nursing-Staten Island,2012,New York,City: Large,No,Implied no,Implied no,Yes,160,R,29,R,131,R
+195809,St John's University-New York,2012,New York,City: Large,No,Yes,Yes,Implied no,4361,R,1820,R,2541,R
+195827,SUNY-System Office,2012,New York,City: Small,Not applicable,Not applicable,Not applicable,Not applicable,,,,,,
+195845,New York Career Institute,2012,New York,City: Large,No,Implied no,Implied no,Yes,128,R,15,R,113,R
+195988,Sullivan County Community College,2012,New York,Rural: Distant,No,Yes,Implied no,Implied no,266,R,95,R,171,R
+196006,SUNY College of Technology at Alfred,2012,New York,Town: Remote,No,Yes,Implied no,Implied no,1015,R,686,R,329,R
+196015,SUNY College of Technology at Canton,2012,New York,Town: Remote,No,Yes,Implied no,Implied no,921,R,406,R,515,R
+196024,SUNY College of Technology at Delhi,2012,New York,Town: Remote,No,Yes,Implied no,Implied no,881,R,413,R,468,R
+196033,SUNY College of Agriculture and Technology at Cobleskill,2012,New York,Town: Distant,No,Yes,Implied no,Implied no,586,R,284,R,302,R
+196042,Farmingdale State College,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,1490,R,766,R,724,R
+196051,Morrisville State College,2012,New York,Rural: Distant,No,Yes,Implied no,Implied no,684,R,316,R,368,R
+196060,SUNY at Albany,2012,New York,City: Small,No,Yes,Yes,Implied no,4515,R,2024,R,2491,R
+196079,SUNY at Binghamton,2012,New York,Suburb: Midsize,No,Yes,Yes,Implied no,4056,R,2052,R,2004,R
+196088,University at Buffalo,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,7487,R,3708,R,3779,R
+196097,Stony Brook University,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,6379,R,2871,R,3508,R
+196103,SUNY College of Environmental Science and Forestry,2012,New York,City: Midsize,No,Yes,Implied no,Implied no,529,R,311,R,218,R
+196112,SUNY Institute of Technology at Utica-Rome,2012,New York,Suburb: Midsize,No,Yes,Yes,Implied no,613,R,316,R,297,R
+196121,SUNY College at Brockport,2012,New York,Town: Fringe,No,Yes,Yes,Implied no,2098,R,828,R,1270,R
+196130,Buffalo State SUNY,2012,New York,City: Large,No,Yes,Yes,Implied no,2704,R,965,R,1739,R
+196149,SUNY College at Cortland,2012,New York,Town: Distant,No,Yes,Yes,Implied no,1887,R,776,R,1111,R
+196158,SUNY at Fredonia,2012,New York,Town: Distant,No,Yes,Yes,Implied no,1318,R,523,R,795,R
+196167,SUNY College at Geneseo,2012,New York,Town: Distant,No,Yes,Implied no,Implied no,1302,R,519,R,783,R
+196176,State University of New York at New Paltz,2012,New York,Suburb: Large,No,Yes,Yes,Implied no,2236,R,746,R,1490,R
+196185,SUNY Oneonta,2012,New York,Town: Remote,No,Implied no,Yes,Implied no,1405,R,544,R,861,R
+196194,SUNY College at Oswego,2012,New York,Town: Distant,No,Yes,Yes,Implied no,2026,R,896,R,1130,R
+196200,SUNY College at Potsdam,2012,New York,Town: Remote,No,Yes,Yes,Implied no,993,R,378,R,615,R
+196219,SUNY at Purchase College,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,1182,R,484,R,698,R
+196228,SUNY College of Optometry,2012,New York,City: Large,No,Implied no,Implied no,Yes,71,R,17,R,54,R
+196237,SUNY College at Old Westbury,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,868,R,348,R,520,R
+196246,SUNY College at Plattsburgh,2012,New York,Town: Distant,No,Yes,Yes,Implied no,1520,R,591,R,929,R
+196255,SUNY Downstate Medical Center,2012,New York,City: Large,No,Implied no,Implied no,Yes,564,R,164,R,400,R
+196264,SUNY Empire State College,2012,New York,Suburb: Small,No,Yes,Yes,Implied no,2592,R,1001,R,1591,R
+196291,SUNY Maritime College,2012,New York,City: Large,No,Yes,Yes,Implied no,367,R,311,R,56,R
+196307,Upstate Medical University,2012,New York,City: Midsize,No,Yes,Yes,Implied no,464,R,153,R,311,R
+196389,Swedish Institute a College of Health Sciences,2012,New York,City: Large,No,Implied no,Implied no,Yes,242,R,60,R,182,R
+196413,Syracuse University,2012,New York,City: Midsize,No,Implied no,Yes,Implied no,5395,R,2435,R,2960,R
+196431,Talmudical Seminary Oholei Torah,2012,New York,City: Large,No,Implied no,Implied no,Yes,4,R,4,R,0,Z
+196440,Talmudical Institute of Upstate New York,2012,New York,City: Midsize,No,Implied no,Implied no,Yes,2,R,2,R,0,Z
+196468,Teachers College at Columbia University,2012,New York,City: Large,No,Implied no,Yes,Implied no,2103,R,479,R,1624,R
+196477,Technical Career Institutes,2012,New York,City: Large,No,Implied no,Implied no,Yes,1102,R,675,R,427,R
+196565,Tompkins Cortland Community College,2012,New York,Town: Fringe,No,Yes,Implied no,Implied no,721,R,273,R,448,R
+196583,Torah Temimah Talmudical Seminary,2012,New York,City: Large,No,Implied no,Implied no,Yes,2,R,2,R,0,Z
+196592,Touro College,2012,New York,City: Large,No,Yes,Yes,Implied no,4549,R,1260,R,3289,R
+196653,Trocaire College,2012,New York,City: Large,No,Yes,Implied no,Implied no,389,R,52,R,337,R
+196680,Excelsior College,2012,New York,City: Small,Yes,Yes,Yes,Implied no,5184,R,2778,R,2406,R
+196699,Ulster County Community College,2012,New York,Rural: Fringe,No,Yes,Implied no,Implied no,394,R,137,R,257,R
+196866,Union College,2012,New York,City: Small,No,Implied no,Implied no,Yes,539,R,260,R,279,R
+196884,Union Theological Seminary in the City of New York,2012,New York,City: Large,No,Implied no,Implied no,Yes,74,R,29,R,45,R
+197018,United Talmudical Seminary,2012,New York,City: Large,No,Implied no,Implied no,Yes,165,R,165,R,0,Z
+197045,Utica College,2012,New York,City: Small,No,Yes,Yes,Implied no,1005,R,380,R,625,R
+197081,Utica School of Commerce,2012,New York,City: Small,No,Yes,Implied no,Implied no,119,R,17,R,102,R
+197133,Vassar College,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,597,R,258,R,339,R
+197142,Villa Maria College,2012,New York,City: Small,No,Implied no,Implied no,Yes,78,R,19,R,59,R
+197151,School of Visual Arts,2012,New York,City: Large,No,Implied no,Implied no,Yes,1029,R,433,R,596,R
+197197,Wagner College,2012,New York,City: Large,No,Implied no,Implied no,Yes,610,R,199,R,411,R
+197221,Webb Institute,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,20,R,19,R,1,R
+197230,Wells College,2012,New York,Rural: Distant,No,Implied no,Implied no,Yes,110,R,29,R,81,R
+197285,The College of Westchester,2012,New York,City: Small,No,Yes,Implied no,Implied no,354,R,137,R,217,R
+197294,SUNY Westchester Community College,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,1319,R,555,R,764,R
+197522,Wood Tobe-Coburn School,2012,New York,City: Large,No,Implied no,Implied no,Yes,327,R,72,R,255,R
+197601,Yeshiva Karlin Stolin,2012,New York,City: Large,No,Implied no,Implied no,Yes,8,R,8,R,0,Z
+197610,Yeshivat Mikdash Melech,2012,New York,City: Large,No,Implied no,Implied no,Yes,3,R,3,R,0,Z
+197647,Yeshiva Derech Chaim,2012,New York,City: Large,No,Implied no,Implied no,Yes,15,R,15,R,0,Z
+197674,Yeshiva of Nitra Rabbinical College,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,35,R,35,R,0,R
+197692,Yeshiva Shaar Hatorah,2012,New York,City: Large,No,Implied no,Implied no,Yes,13,R,13,R,0,R
+197708,Yeshiva University,2012,New York,City: Large,No,Implied no,Implied no,Yes,1952,R,798,R,1154,R
+197735,Yeshivath Viznitz,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,72,R,72,R,0,Z
+197744,Yeshivath Zichron Moshe,2012,New York,Rural: Fringe,No,Implied no,Implied no,Yes,8,R,8,R,0,Z
+203067,Hebrew Union College-Jewish Institute of Religion,2012,New York,City: Large,No,Implied no,Yes,Implied no,167,R,57,R,110,R
+210483,Keystone Technical Institute,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,223,R,45,R,178,R
+210492,Bryn Athyn College of the New Church,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,51,R,27,R,24,R
+210571,Albright College,2012,Pennsylvania,City: Small,No,Implied no,Implied no,Yes,501,R,204,R,297,R
+210605,Community College of Allegheny County,2012,Pennsylvania,City: Large,No,Yes,Implied no,Implied no,2642,R,1069,R,1573,R
+210669,Allegheny College,2012,Pennsylvania,Town: Distant,No,Implied no,Implied no,Yes,465,R,214,R,251,R
+210739,DeSales University,2012,Pennsylvania,Rural: Fringe,No,Yes,Yes,Implied no,757,R,297,R,460,R
+210775,Alvernia University,2012,Pennsylvania,City: Small,No,Yes,Yes,Implied no,679,R,176,R,503,R
+210890,Antonelli Institute,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,72,R,16,R,56,R
+210906,The Art Institutes of York-PA,2012,Pennsylvania,Suburb: Midsize,No,Implied no,Implied no,Yes,84,R,32,R,52,R
+210942,The Art Institute of Philadelphia,2012,Pennsylvania,City: Large,No,Yes,Implied no,Implied no,704,R,244,R,460,R
+210951,Career Training Academy-New Kensington,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,53,R,3,R,50,R
+210960,The Art Institute of Pittsburgh,2012,Pennsylvania,City: Large,No,Yes,Implied no,Implied no,470,R,242,R,228,R
+211024,Baptist Bible College & Seminary of Pennsylvania,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,192,R,107,R,85,R
+211079,Community College of Beaver County,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,461,R,226,R,235,R
+211088,Arcadia University,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,1110,R,298,R,812,R
+211130,Biblical Theological Seminary,2012,Pennsylvania,Suburb: Large,No,Implied no,Yes,Implied no,83,R,57,R,26,R
+211149,Bidwell Training Center Inc,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,106,R,38,R,68,R
+211158,Bloomsburg University of Pennsylvania,2012,Pennsylvania,City: Small,No,Yes,Yes,Implied no,2012,R,797,R,1215,R
+211200,Bradford School,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,246,R,74,R,172,R
+211273,Bryn Mawr College,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,505,R,39,R,466,R
+211291,Bucknell University,2012,Pennsylvania,Town: Distant,No,Implied no,Implied no,Yes,916,R,421,R,495,R
+211307,Bucks County Community College,2012,Pennsylvania,Rural: Fringe,No,Yes,Implied no,Implied no,977,R,380,R,597,R
+211316,Buck's County School of Beauty Culture Inc,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,52,R,1,R,51,R
+211343,Butler County Community College,2012,Pennsylvania,Town: Fringe,No,Yes,Implied no,Implied no,518,R,204,R,314,R
+211352,Cabrini College,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,1039,R,259,R,780,R
+211361,California University of Pennsylvania,2012,Pennsylvania,Suburb: Small,No,Yes,Yes,Implied no,2515,R,1080,R,1435,R
+211370,Calvary Baptist Theological Seminary,2012,Pennsylvania,Suburb: Large,No,Implied no,Yes,Implied no,18,R,17,R,1,R
+211398,Cambria-Rowe Business College-Johnstown,2012,Pennsylvania,City: Small,No,Implied no,Implied no,Yes,74,R,18,R,56,R
+211431,Carlow University,2012,Pennsylvania,City: Large,No,Yes,Yes,Implied no,602,R,52,R,550,R
+211440,Carnegie Mellon University,2012,Pennsylvania,City: Large,No,Implied no,Yes,Implied no,3758,R,2406,R,1352,R
+211468,Cedar Crest College,2012,Pennsylvania,City: Midsize,No,Yes,Yes,Implied no,453,R,18,R,435,R
+211477,Central Penn College,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,356,R,118,R,238,R
+211556,Chatham University,2012,Pennsylvania,City: Large,No,Yes,Yes,Implied no,759,R,121,R,638,R
+211583,Chestnut Hill College,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,638,R,147,R,491,R
+211608,Cheyney University of Pennsylvania,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,202,R,82,R,120,R
+211617,Kaplan Career Institute-Franklin Mills,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,478,R,190,R,288,R
+211644,Clarion University of Pennsylvania,2012,Pennsylvania,Town: Remote,No,Yes,Yes,Implied no,1492,R,475,R,1017,R
+211750,YTI Career Institute-Capital Region,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,183,R,35,R,148,R
+211820,Consolidated School of Business-York,2012,Pennsylvania,City: Small,No,Implied no,Implied no,Yes,71,R,7,R,64,R
+211893,Curtis Institute of Music,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,36,R,15,R,21,R
+211909,Dean Institute of Technology,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,76,R,75,R,1,R
+211927,Delaware County Community College,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,1444,R,650,R,794,R
+211981,Delaware Valley College,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,487,R,197,R,290,R
+212009,Dickinson College,2012,Pennsylvania,City: Small,No,Implied no,Implied no,Yes,548,R,238,R,310,R
+212018,The Dickinson School of Law of the Pennsylvania State University,2012,Pennsylvania,City: Small,No,Yes,Yes,Implied no,77,R,40,R,37,R
+212045,Douglas Education Center,2012,Pennsylvania,Suburb: Small,No,Implied no,Implied no,Yes,171,R,61,R,110,R
+212054,Drexel University,2012,Pennsylvania,City: Large,No,Yes,Yes,Implied no,5977,R,2592,R,3385,R
+212072,Du Bois Business College-Du Bois,2012,Pennsylvania,Town: Remote,No,Implied no,Implied no,Yes,92,R,18,R,74,R
+212090,Everest Institute-Pittsburgh,2012,Pennsylvania,City: Large,No,Yes,Implied no,Implied no,261,R,29,R,232,R
+212106,Duquesne University,2012,Pennsylvania,City: Large,No,Yes,Yes,Implied no,2614,R,1069,R,1545,R
+212115,East Stroudsburg University of Pennsylvania,2012,Pennsylvania,City: Small,No,Yes,Yes,Implied no,1703,R,683,R,1020,R
+212133,Eastern University,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,1013,R,317,R,696,R
+212160,Edinboro University of Pennsylvania,2012,Pennsylvania,Town: Fringe,No,Yes,Yes,Implied no,1637,R,533,R,1104,R
+212197,Elizabethtown College,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,419,R,144,R,275,R
+212425,Erie Business Center-Erie,2012,Pennsylvania,City: Midsize,No,Implied no,Implied no,Yes,106,R,22,R,84,R
+212434,Erie Institute of Technology Inc,2012,Pennsylvania,Suburb: Midsize,No,Implied no,Implied no,Yes,112,R,100,R,12,R
+212443,Evangelical Theological Seminary,2012,Pennsylvania,Suburb: Small,No,Implied no,Yes,Implied no,27,R,15,R,12,R
+212577,Franklin and Marshall College,2012,Pennsylvania,City: Small,No,Implied no,Implied no,Yes,553,R,243,R,310,R
+212601,Gannon University,2012,Pennsylvania,City: Midsize,No,Yes,Yes,Implied no,953,R,382,R,571,R
+212656,Geneva College,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,522,R,207,R,315,R
+212674,Gettysburg College,2012,Pennsylvania,City: Small,No,Implied no,Implied no,Yes,617,R,299,R,318,R
+212771,Gratz College,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,306,R,72,R,234,R
+212832,Gwynedd Mercy University,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,743,R,167,R,576,R
+212869,Harcum College,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,347,R,63,R,284,R
+212878,Harrisburg Area Community College-Harrisburg,2012,Pennsylvania,City: Small,No,Yes,Implied no,Implied no,2370,R,891,R,1479,R
+212911,Haverford College,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,307,R,136,R,171,R
+212975,Commonwealth Technical Institute,2012,Pennsylvania,Suburb: Small,No,Implied no,Implied no,Yes,203,R,142,R,61,R
+212984,Holy Family University,2012,Pennsylvania,City: Large,No,Yes,Yes,Implied no,756,R,193,R,563,R
+212993,Hussian School of Art,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,33,R,25,R,8,R
+213002,Kaplan Career Institute-Pittsburgh,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,298,R,125,R,173,R
+213011,Immaculata University,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,946,R,200,R,746,R
+213020,Indiana University of Pennsylvania-Main Campus,2012,Pennsylvania,Town: Distant,No,Yes,Yes,Implied no,3022,R,1237,R,1785,R
+213057,Pennsylvania School of Business,2012,Pennsylvania,City: Midsize,No,Implied no,Implied no,Yes,177,R,40,R,137,R
+213233,Johnson College,2012,Pennsylvania,City: Small,No,Yes,Implied no,Implied no,169,R,129,R,40,R
+213251,Juniata College,2012,Pennsylvania,Town: Distant,No,Yes,Implied no,Implied no,366,R,147,R,219,R
+213303,Keystone College,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,354,R,123,R,231,R
+213321,King's College,2012,Pennsylvania,City: Small,No,Yes,Yes,Implied no,609,R,241,R,368,R
+213349,Kutztown University of Pennsylvania,2012,Pennsylvania,Town: Fringe,No,Yes,Yes,Implied no,2086,R,794,R,1292,R
+213358,La Roche College,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,331,R,116,R,215,R
+213367,La Salle University,2012,Pennsylvania,City: Large,No,Yes,Yes,Implied no,1608,R,547,R,1061,R
+213376,Lackawanna College,2012,Pennsylvania,City: Small,No,Yes,Implied no,Implied no,364,R,225,R,139,R
+213385,Lafayette College,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,585,R,317,R,268,R
+213400,Lancaster Bible College,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,306,R,172,R,134,R
+213446,Lancaster Theological Seminary,2012,Pennsylvania,City: Small,No,Implied no,Yes,Implied no,27,R,9,R,18,R
+213473,Lansdale School of Business,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,176,R,36,R,140,R
+213507,Lebanon Valley College,2012,Pennsylvania,Suburb: Small,No,Implied no,Yes,Implied no,453,R,196,R,257,R
+213525,Lehigh Carbon Community College,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,841,R,280,R,561,R
+213534,Berks Technical Institute,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,385,R,117,R,268,R
+213543,Lehigh University,2012,Pennsylvania,City: Small,No,Implied no,Yes,Implied no,1849,R,1010,R,839,R
+213570,Lincoln Technical Institute-Allentown,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,422,R,91,R,331,R
+213589,Lincoln Technical Institute-Philadelphia,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,266,R,250,R,16,R
+213598,Lincoln University of Pennsylvania,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,491,R,189,R,302,R
+213613,Lock Haven University,2012,Pennsylvania,Town: Distant,No,Yes,Yes,Implied no,1069,R,441,R,628,R
+213631,Lutheran Theological Seminary at Gettysburg,2012,Pennsylvania,City: Small,No,Implied no,Yes,Implied no,40,R,19,R,21,R
+213640,Lutheran Theological Seminary at Philadelphia,2012,Pennsylvania,City: Large,No,Implied no,Yes,Implied no,56,R,30,R,26,R
+213659,Luzerne County Community College,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,916,R,359,R,557,R
+213668,Lycoming College,2012,Pennsylvania,City: Small,No,Implied no,Implied no,Yes,244,R,112,R,132,R
+213686,Erie Business Center-New Castle,2012,Pennsylvania,Town: Fringe,No,Implied no,Implied no,Yes,23,R,10,R,13,R
+213774,Manor College,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,171,R,30,R,141,R
+213783,Mansfield University of Pennsylvania,2012,Pennsylvania,Town: Distant,No,Yes,Yes,Implied no,725,R,241,R,484,R
+213826,Marywood University,2012,Pennsylvania,City: Small,No,Implied no,Yes,Implied no,925,R,221,R,704,R
+213914,Vet Tech Institute,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,122,R,12,R,110,R
+213987,Mercyhurst University,2012,Pennsylvania,City: Midsize,No,Yes,Yes,Implied no,781,R,324,R,457,R
+213996,Messiah College,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,675,R,241,R,434,R
+214023,Metropolitan Career Center Computer Technology Institute,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,42,R,24,C,18,C
+214041,Millersville University of Pennsylvania,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,1817,R,706,R,1111,R
+214069,Misericordia University,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,652,R,180,R,472,R
+214111,Montgomery County Community College,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,1399,R,555,R,844,R
+214148,Moore College of Art and Design,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,128,R,2,R,126,R
+214157,Moravian College,2012,Pennsylvania,City: Small,No,Yes,Yes,Implied no,440,R,159,R,281,R
+214166,Mount Aloysius College,2012,Pennsylvania,Town: Fringe,No,Yes,Yes,Implied no,381,R,113,R,268,R
+214175,Muhlenberg College,2012,Pennsylvania,City: Midsize,No,Implied no,Implied no,Yes,623,R,269,R,354,R
+214254,Kaplan Career Institute-Philadelphia,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,459,R,159,R,300,R
+214272,Neumann University,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,662,R,222,R,440,R
+214290,New Castle School of Trades,2012,Pennsylvania,Rural: Fringe,No,Implied no,Implied no,Yes,539,R,520,R,19,R
+214315,Newport Business Institute-Lower Burrell,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,39,R,6,R,33,R
+214379,Northampton County Area Community College,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,1617,R,600,R,1017,R
+214528,Orleans Technical Institute,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,357,R,316,R,41,R
+214564,Salus University,2012,Pennsylvania,Suburb: Large,No,Implied no,Yes,Implied no,326,R,107,R,219,R
+214582,Pennsylvania Institute of Technology,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,449,R,66,R,383,R
+214591,Pennsylvania State University-Penn State Erie-Behrend College,2012,Pennsylvania,Suburb: Midsize,No,Yes,Yes,Implied no,853,R,545,R,308,R
+214607,Pennsylvania State University-Penn State Great Valley,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,291,R,180,R,111,R
+214616,Pennsylvania State University-College of Medicine,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,184,R,87,R,97,R
+214625,Pennsylvania State University-Penn State New Kensington,2012,Pennsylvania,Rural: Fringe,No,Yes,Yes,Implied no,114,R,68,R,46,R
+214634,Pennsylvania State University-Penn State Shenango,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,135,R,44,R,91,R
+214643,Pennsylvania State University-Penn State Wilkes-Barre,2012,Pennsylvania,Rural: Fringe,No,Yes,Yes,Implied no,103,R,72,R,31,R
+214652,Pennsylvania State University-Penn State Worthington Scranton,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,198,R,72,R,126,R
+214661,Pennsylvania State System of Higher Education-Central Office,2012,Pennsylvania,City: Small,Not applicable,Not applicable,Not applicable,Not applicable,,,,,,
+214670,Pennsylvania State University-Penn State Lehigh Valley,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,55,R,13,R,42,R
+214689,Pennsylvania State University-Penn State Altoona,2012,Pennsylvania,City: Small,No,Yes,Yes,Implied no,440,R,209,R,231,R
+214698,Pennsylvania State University-Penn State Beaver,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,78,R,40,R,38,R
+214704,Pennsylvania State University-Penn State Berks,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,314,R,147,R,167,R
+214713,Pennsylvania State University-Penn State Harrisburg,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,1076,R,498,R,578,R
+214731,Pennsylvania State University-Penn State Brandywine,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,195,R,92,R,103,R
+214740,Pennsylvania State University-Penn State Dubois,2012,Pennsylvania,Town: Remote,No,Yes,Yes,Implied no,158,R,75,R,83,R
+214759,Pennsylvania State University-Penn State Fayette- Eberly,2012,Pennsylvania,Suburb: Small,No,Yes,Yes,Implied no,213,R,78,R,135,R
+214768,Pennsylvania State University-Penn State Hazleton,2012,Pennsylvania,Suburb: Small,No,Yes,Yes,Implied no,107,R,53,R,54,R
+214777,Pennsylvania State University-Main Campus,2012,Pennsylvania,City: Small,No,Yes,Yes,Implied no,12038,R,6464,R,5574,R
+214786,Pennsylvania State University-Penn State Greater Allegheny,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,57,R,31,R,26,R
+214795,Pennsylvania State University-Penn State Mont Alto,2012,Pennsylvania,Town: Fringe,No,Yes,Yes,Implied no,161,R,46,R,115,R
+214801,Pennsylvania State University-Penn State Abington,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,432,R,221,R,211,R
+214810,Pennsylvania State University-Penn State Schuylkill,2012,Pennsylvania,Town: Distant,No,Yes,Yes,Implied no,91,R,43,R,48,R
+214829,Pennsylvania State University-Penn State York,2012,Pennsylvania,Suburb: Midsize,No,Yes,Yes,Implied no,165,R,95,R,70,R
+214838,Pace Institute,2012,Pennsylvania,City: Small,No,Implied no,Implied no,Yes,85,R,22,R,63,R
+214883,Peirce College,2012,Pennsylvania,City: Large,No,Yes,Implied no,Implied no,393,R,122,R,271,R
+214892,Penn Commercial Business/Technical School,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,177,R,75,R,102,R
+214944,Pennco Tech-Bristol,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,417,R,367,R,50,R
+214971,Pennsylvania Academy of the Fine Arts,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,113,R,44,R,69,R
+215053,Pennsylvania College of Art and Design,2012,Pennsylvania,City: Small,No,Implied no,Implied no,Yes,66,R,19,R,47,R
+215062,University of Pennsylvania,2012,Pennsylvania,City: Large,No,Yes,Yes,Implied no,7324,R,3425,R,3899,R
+215099,Philadelphia University,2012,Pennsylvania,City: Large,No,Yes,Yes,Implied no,953,R,310,R,643,R
+215105,The University of the Arts,2012,Pennsylvania,City: Large,No,Implied no,Yes,Implied no,543,R,202,R,341,R
+215114,Cairn University-Langhorne,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,292,R,121,R,171,R
+215123,Philadelphia College of Osteopathic Medicine,2012,Pennsylvania,City: Large,No,Implied no,Yes,Implied no,736,R,296,R,440,R
+215132,University of the Sciences,2012,Pennsylvania,City: Large,No,Implied no,Yes,Implied no,806,R,306,R,500,R
+215239,Community College of Philadelphia,2012,Pennsylvania,City: Large,No,Yes,Implied no,Implied no,1915,R,576,R,1339,R
+215266,University of Pittsburgh-Bradford,2012,Pennsylvania,Town: Remote,No,Yes,Implied no,Implied no,334,R,143,R,191,R
+215275,University of Pittsburgh-Greensburg,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,286,R,132,R,154,R
+215284,University of Pittsburgh-Johnstown,2012,Pennsylvania,Suburb: Small,No,Implied no,Implied no,Yes,519,R,280,R,239,R
+215293,University of Pittsburgh-Pittsburgh Campus,2012,Pennsylvania,City: Large,No,Yes,Yes,Implied no,7794,R,3450,R,4344,R
+215309,University of Pittsburgh-Titusville,2012,Pennsylvania,Town: Remote,No,Yes,Implied no,Implied no,69,R,22,R,47,R
+215381,Pittsburgh Institute of Aeronautics,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,352,R,333,R,19,R
+215390,Pittsburgh Institute of Mortuary Science Inc,2012,Pennsylvania,City: Large,No,Yes,Implied no,Implied no,54,R,22,R,32,R
+215415,Pittsburgh Technical Institute,2012,Pennsylvania,Rural: Fringe,No,Yes,Implied no,Implied no,899,R,547,R,352,R
+215424,Pittsburgh Theological Seminary,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,81,R,54,R,27,R
+215433,Prism Career Institute-Upper Darby,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,188,R,17,R,171,R
+215442,Point Park University,2012,Pennsylvania,City: Large,No,Yes,Yes,Implied no,965,R,385,R,580,R
+215585,Reading Area Community College,2012,Pennsylvania,City: Small,No,Yes,Implied no,Implied no,429,R,125,R,304,R
+215619,Reconstructionist Rabbinical College,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,11,R,3,R,8,R
+215628,Reformed Presbyterian Theological Seminary,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,14,R,10,R,4,R
+215637,The Restaurant School at Walnut Hill College,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,138,R,61,R,77,R
+215646,Kaplan Career Institute-Broomall,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,440,R,205,R,235,R
+215655,Robert Morris University,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,1117,R,564,R,553,R
+215682,Rosedale Technical Institute,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,176,R,171,R,5,R
+215691,Rosemont College,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,220,R,32,R,188,R
+215743,Saint Francis University,2012,Pennsylvania,Town: Fringe,No,Yes,Yes,Implied no,712,R,251,R,461,R
+215770,Saint Joseph's University,2012,Pennsylvania,City: Large,No,Yes,Yes,Implied no,2480,R,1077,R,1403,R
+215798,Saint Vincent College,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,477,R,246,R,231,R
+215813,Saint Vincent Seminary,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,12,R,12,R,0,R
+215929,University of Scranton,2012,Pennsylvania,City: Small,No,Implied no,Yes,Implied no,1698,R,688,R,1010,R
+215947,Seton Hill University,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,496,R,152,R,344,R
+215992,Laurel Technical Institute,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,130,R,29,R,101,R
+216010,Shippensburg University of Pennsylvania,2012,Pennsylvania,Town: Fringe,No,Yes,Yes,Implied no,1800,R,734,R,1066,R
+216038,Slippery Rock University of Pennsylvania,2012,Pennsylvania,Town: Distant,No,Yes,Yes,Implied no,2107,R,852,R,1255,R
+216047,Saint Charles Borromeo Seminary-Overbrook,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,51,R,46,R,5,R
+216083,South Hills School of Business & Technology,2012,Pennsylvania,City: Small,No,Implied no,Implied no,Yes,269,R,105,R,164,R
+216278,Susquehanna University,2012,Pennsylvania,Town: Distant,No,Yes,Implied no,Implied no,506,R,234,R,272,R
+216287,Swarthmore College,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,369,R,178,R,191,R
+216296,Thaddeus Stevens College of Technology,2012,Pennsylvania,City: Small,No,Implied no,Implied no,Yes,279,R,255,R,24,R
+216311,Talmudical Yeshiva of Philadelphia,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,19,R,19,R,0,Z
+216339,Temple University,2012,Pennsylvania,City: Large,No,Yes,Yes,Implied no,8508,R,3765,R,4743,R
+216357,Thiel College,2012,Pennsylvania,Town: Fringe,No,Implied no,Implied no,Yes,155,R,78,R,77,R
+216366,Thomas Jefferson University,2012,Pennsylvania,City: Large,No,Yes,Yes,Implied no,1147,R,319,R,828,R
+216418,Fortis Institute-Erie,2012,Pennsylvania,Suburb: Midsize,No,Implied no,Implied no,Yes,641,R,289,R,352,R
+216427,Triangle Tech Inc-Erie,2012,Pennsylvania,City: Midsize,No,Implied no,Implied no,Yes,76,R,74,R,2,R
+216436,Triangle Tech Inc-Pittsburgh,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,180,R,173,R,7,R
+216445,Triangle Tech Inc-Greensburg,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,121,R,119,R,2,R
+216454,Triangle Tech Inc-Dubois,2012,Pennsylvania,Town: Remote,No,Implied no,Implied no,Yes,161,R,158,R,3,R
+216463,Trinity Episcopal School for Ministry,2012,Pennsylvania,Suburb: Large,No,Implied no,Yes,Implied no,49,R,33,R,16,R
+216524,Ursinus College,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,472,R,209,R,263,R
+216542,Valley Forge Christian College,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,157,R,60,R,97,R
+216551,Valley Forge Military College,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,81,R,67,R,14,R
+216597,Villanova University,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,3049,R,1520,R,1529,R
+216667,Washington & Jefferson College,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,320,R,172,R,148,R
+216694,Waynesburg University,2012,Pennsylvania,Town: Distant,No,Implied no,Yes,Implied no,666,R,228,R,438,R
+216764,West Chester University of Pennsylvania,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,3351,R,1161,R,2190,R
+216782,Sanford-Brown Institute-Pittsburgh,2012,Pennsylvania,City: Large,No,Yes,Implied no,Implied no,368,R,47,R,321,R
+216807,Westminster College,2012,Pennsylvania,Town: Fringe,No,Yes,Implied no,Implied no,354,R,141,R,213,R
+216816,Westminster Theological Seminary,2012,Pennsylvania,Suburb: Large,No,Implied no,Yes,Implied no,98,R,70,R,28,R
+216825,Westmoreland County Community College,2012,Pennsylvania,Rural: Fringe,No,Yes,Implied no,Implied no,864,R,268,R,596,R
+216852,Widener University-Main Campus,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,1168,R,441,R,727,R
+216931,Wilkes University,2012,Pennsylvania,City: Small,No,Yes,Yes,Implied no,1805,R,613,R,1192,R
+216986,Newport Business Institute-Williamsport,2012,Pennsylvania,City: Small,No,Yes,Implied no,Implied no,27,R,1,R,26,R
+217013,Wilson College,2012,Pennsylvania,City: Small,No,Yes,Yes,Implied no,94,R,11,R,83,R
+217040,Yeshivath Beth Moshe,2012,Pennsylvania,City: Small,No,Implied no,Implied no,Yes,,,,,,
+217059,York College Pennsylvania,2012,Pennsylvania,Suburb: Midsize,No,Implied no,Implied no,Yes,1012,R,437,R,575,R
+217077,YTI Career Institute-York,2012,Pennsylvania,Suburb: Midsize,No,Implied no,Implied no,Yes,1155,R,570,R,585,R
+217086,Yorktowne Business Institute,2012,Pennsylvania,Suburb: Midsize,No,Implied no,Implied no,Yes,86,R,19,R,67,R
+244190,Widener University-Delaware Campus,2012,Delaware,Suburb: Large,No,Yes,Implied no,Implied no,332,R,176,R,156,R
+245625,Warren County Community College,2012,New Jersey,Rural: Fringe,No,Yes,Implied no,Implied no,289,R,107,R,182,R
+245731,Yeshiva and Kollel Harbotzas Torah,2012,New York,City: Large,No,Implied no,Implied no,Yes,17,R,17,R,0,Z
+245777,Bais Medrash Elyon,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,4,R,4,R,0,Z
+246789,Unification Theological Seminary,2012,New York,Rural: Fringe,No,Implied no,Yes,Implied no,18,R,12,R,6,R
+247603,Sussex County Community College,2012,New Jersey,Town: Fringe,No,Yes,Implied no,Implied no,506,R,220,R,286,R
+249609,Fortis Institute-Forty Fort,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,222,R,77,R,145,R
+250027,Laurel Business Institute,2012,Pennsylvania,Suburb: Small,No,Implied no,Implied no,Yes,133,R,17,R,116,R
+250407,Sanford-Brown Institute-Trevose,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,644,R,49,R,595,R
+251075,Kaplan Career Institute-Harrisburg,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,266,R,43,R,223,R
+260354,Consolidated School of Business-Lancaster,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,58,R,8,R,50,R
+261861,Pennsylvania Institute of Health and Technology,2012,Pennsylvania,Suburb: Small,No,Yes,Implied no,Implied no,87,R,11,R,76,R
+363721,University of the District of Columbia-David A Clarke School of Law,2012,District of Columbia,City: Large,No,Implied no,Implied no,Yes,95,R,31,R,64,R
+365055,The Art Institute of New York City,2012,New York,City: Large,No,Implied no,Implied no,Yes,324,R,142,R,182,R
+366252,Pennsylvania College of Technology,2012,Pennsylvania,City: Small,No,Yes,Implied no,Implied no,1503,R,1048,R,455,R
+366368,New York Academy of Art,2012,New York,City: Large,No,Implied no,Implied no,Yes,50,R,25,R,25,R
+366395,Suffolk County Community College,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,3543,R,1505,R,2038,R
+369817,Bethel Seminary of the East,2012,Maryland,Suburb: Large,No,Implied no,Yes,Implied no,12,R,8,R,4,R
+374972,Bryant & Stratton College-Southtowns,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,186,R,46,R,140,R
+375230,Yeshiva Gedolah Imrei Yosef D'spinka,2012,New York,City: Large,No,Implied no,Implied no,Yes,12,R,12,R,0,Z
+375939,YTI Career Institute-Altoona,2012,Pennsylvania,City: Small,No,Implied no,Implied no,Yes,213,R,29,R,184,R
+376039,Oakbridge Academy of Arts,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,19,R,5,R,14,R
+376136,Sanford-Brown Institute-Wilkins Township,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,282,R,40,R,242,R
+384412,University of the Potomac-Washington DC Campus,2012,District of Columbia,City: Large,No,Yes,Implied no,Implied no,74,R,26,R,48,R
+384421,Rabbi Jacob Joseph School,2012,New Jersey,Suburb: Large,No,Implied no,Implied no,Yes,3,R,3,R,0,Z
+385503,Fortis Institute-Scranton,2012,Pennsylvania,City: Small,No,Implied no,Implied no,Yes,199,R,30,R,169,R
+402828,Widener University-Harrisburg Campus,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,133,R,74,R,59,R
+404480,University System of Maryland-Research Centers,2012,Maryland,Suburb: Large,Not applicable,Not applicable,Not applicable,Not applicable,,,,,,
+404994,ASA College,2012,New York,City: Large,No,Yes,Implied no,Implied no,1809,R,499,R,1310,R
+405058,Yeshivas Novominsk,2012,New York,City: Large,No,Implied no,Implied no,Yes,1,R,1,R,0,Z
+405854,Rabbinical College of Ohr Shimon Yisroel,2012,New York,City: Large,No,Implied no,Implied no,Yes,30,R,30,R,0,Z
+405872,Carroll Community College,2012,Maryland,Rural: Fringe,No,Yes,Implied no,Implied no,569,R,206,R,363,R
+407629,Lake Erie College of Osteopathic Medicine,2012,Pennsylvania,City: Midsize,No,Implied no,Yes,Implied no,724,R,364,R,360,R
+408312,Career Training Academy-Monroeville,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,49,R,8,R,41,R
+410496,Bryant & Stratton College-Henrietta,2012,New York,Suburb: Large,No,Yes,Implied no,Implied no,127,R,24,R,103,R
+414595,Pacific College of Oriental Medicine-New York,2012,New York,City: Large,No,Implied no,Implied no,Yes,169,R,53,R,116,R
+414841,ITT Technical Institute-Pittsburgh,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,115,R,101,R,14,R
+414911,Pennsylvania Highlands Community College,2012,Pennsylvania,Suburb: Small,No,Yes,Implied no,Implied no,236,R,96,R,140,R
+418126,New York College of Health Professions,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,175,R,54,R,121,R
+419341,Jna Institute of Culinary Arts,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,44,R,27,R,17,R
+420325,Yeshiva D'monsey Rabbinical College,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,5,R,5,R,0,Z
+420404,ITT Technical Institute-Getzville,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,203,R,171,R,32,R
+421878,Eastern International College-Jersey City,2012,New Jersey,City: Large,No,Implied no,Implied no,Yes,51,R,8,R,43,R
+428329,Cambria-Rowe Business College-Indiana,2012,Pennsylvania,Town: Distant,No,Implied no,Implied no,Yes,57,R,6,R,51,R
+430184,Strayer University-Maryland,2012,Maryland,Suburb: Large,No,Yes,Yes,Implied no,756,R,273,R,483,R
+430351,ITT Technical Institute-Harrisburg,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,114,R,94,R,20,R
+430360,ITT Technical Institute-Tarentum,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,106,R,91,R,15,R
+431983,Yeshiva of the Telshe Alumni,2012,New York,City: Large,No,Implied no,Implied no,Yes,1,R,1,R,0,Z
+432199,DeVry College of New York,2012,New York,City: Large,No,Yes,Implied no,Implied no,137,R,99,R,38,R
+432357,LIU Hudson at Westchester,2012,New York,Suburb: Large,No,Implied no,Yes,Implied no,90,R,23,R,67,R
+432524,Delaware College of Art and Design,2012,Delaware,City: Small,No,Implied no,Implied no,Yes,78,R,28,R,50,R
+434034,National Labor College,2012,Maryland,Suburb: Large,No,Yes,Implied no,Implied no,121,R,94,R,27,R
+434566,ITT Technical Institute-Albany,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,141,R,115,R,26,R
+434575,ITT Technical Institute-Liverpool,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,116,R,93,R,23,R
+434672,The Community College of Baltimore County,2012,Maryland,Suburb: Large,No,Yes,Implied no,Implied no,2596,R,973,R,1623,R
+434937,Yeshiva College of the Nations Capital,2012,Maryland,Suburb: Large,No,Implied no,Implied no,Yes,6,R,6,R,0,R
+434973,University of Phoenix-Maryland Campus,2012,Maryland,City: Small,No,Yes,Yes,Implied no,86,R,36,R,50,R
+438212,McCann School of Business & Technology,2012,Pennsylvania,Town: Distant,No,Yes,Implied no,Implied no,971,R,207,R,764,R
+438610,University of Phoenix-Philadelphia Campus,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,81,R,30,R,51,R
+438629,University of Phoenix-Pittsburgh Campus,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,5,R,2,R,3,R
+439303,Du Bois Business College-Huntingdon,2012,Pennsylvania,Town: Distant,No,Implied no,Implied no,Yes,30,R,4,R,26,R
+439312,Du Bois Business College-Oil City,2012,Pennsylvania,Town: Remote,No,Implied no,Implied no,Yes,17,R,4,R,13,R
+439330,DeVry University-Maryland,2012,Maryland,City: Small,No,Yes,Implied no,Implied no,17,R,8,R,9,R
+439783,New York College of Traditional Chinese Medicine,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,34,R,13,R,21,R
+439817,Northeastern Seminary,2012,New York,Suburb: Large,No,Implied no,Yes,Implied no,28,R,17,R,11,R
+440174,Career Training Academy-Pittsburgh,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,42,R,7,R,35,R
+440642,ITT Technical Institute-Levittown,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,267,R,213,R,54,R
+440794,Pillar College,2012,New Jersey,City: Large,No,Yes,Implied no,Implied no,55,R,19,R,36,R
+441089,Wyo Tech-Blairsville,2012,Pennsylvania,Town: Fringe,No,Implied no,Implied no,Yes,1060,R,1023,R,37,R
+441609,Yeshiva Shaarei Torah of Rockland,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,,,,,,
+442037,Lincoln Technical Institute-Northeast Philadelphia,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,255,R,67,R,188,R
+442046,Lincoln Technical Institute-Center City Philadelphia,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,522,R,97,R,425,R
+442064,Won Institute of Graduate Studies,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,22,R,4,R,18,R
+442347,ITT Technical Institute-Plymouth Meeting,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,184,R,148,R,36,R
+442356,Pennsylvania College of Health Sciences,2012,Pennsylvania,City: Small,No,Yes,Implied no,Implied no,263,R,40,R,223,R
+442824,DeVry University-Pennsylvania,2012,Pennsylvania,Suburb: Large,No,Yes,Implied no,Implied no,277,R,148,R,129,R
+443377,Triangle Tech Inc-Sunbury,2012,Pennsylvania,Rural: Fringe,No,Implied no,Implied no,Yes,72,R,71,R,1,R
+443784,Strayer University-Pennsylvania,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,416,R,146,R,270,R
+443988,DeVry University's Keller Graduate School of Management-Pennsylvania,2012,Pennsylvania,Suburb: Large,No,Implied no,Yes,Implied no,202,R,90,R,112,R
+444103,Byzantine Catholic Seminary of Saints Cyril and Methodius,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,2,R,2,R,0,Z
+444413,Beis Medrash Heichal Dovid,2012,New York,City: Large,No,Implied no,Implied no,Yes,6,R,6,R,0,Z
+445300,University of Phoenix-Jersey City Campus,2012,New Jersey,City: Large,No,Yes,Implied no,Implied no,19,R,10,R,9,R
+446394,Maple Springs Baptist Bible College and Seminary,2012,Maryland,Suburb: Large,No,Implied no,Implied no,Yes,14,R,4,R,10,R
+446604,Uta Mesivta of Kiryas Joel,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,219,R,219,R,0,Z
+446640,Harrisburg University of Science and Technology,2012,Pennsylvania,City: Small,No,Implied no,Yes,Implied no,41,R,25,R,16,R
+446914,ITT Technical Institute-Owings Mills,2012,Maryland,Suburb: Large,No,Implied no,Implied no,Yes,390,R,324,R,66,R
+446932,Union Graduate College,2012,New York,City: Small,No,Implied no,Yes,Implied no,193,R,95,R,98,R
+448114,National Massage Therapy Institute,2012,Pennsylvania,City: Large,No,Yes,Implied no,Implied no,502,R,166,R,336,R
+448354,Eastern International College-Belleville,2012,New Jersey,Suburb: Large,No,Implied no,Implied no,Yes,55,R,7,R,48,R
+448460,ITT Technical Institute-Dunmore,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,89,R,67,R,22,R
+448691,International Institute for Restorative Practices,2012,Pennsylvania,City: Small,No,Implied no,Yes,Implied no,16,R,2,R,14,R
+448831,University of Phoenix-Harrisburg Campus,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,2,R,2,R,0,Z
+448859,Triangle Tech Inc-Bethlehem,2012,Pennsylvania,Suburb: Large,No,Implied no,Implied no,Yes,72,R,72,R,0,Z
+449658,Bais Medrash Toras Chesed,2012,New Jersey,City: Small,No,Implied no,Implied no,Yes,5,R,5,R,0,R
+450298,Strayer University-Delaware,2012,Delaware,Suburb: Large,No,Yes,Yes,Implied no,56,R,17,R,39,R
+450483,University of Phoenix-Washington DC Campus,2012,District of Columbia,City: Large,No,Yes,Yes,Implied no,13,R,8,R,5,R
+450766,LIU Riverhead,2012,New York,Rural: Fringe,No,Implied no,Yes,Implied no,85,R,29,R,56,R
+451370,Yeshivas Be'er Yitzchok,2012,New Jersey,Suburb: Large,No,Implied no,Implied no,Yes,10,R,10,R,0,Z
+451398,Yeshiva Toras Chaim,2012,New Jersey,Suburb: Large,No,Implied no,Implied no,Yes,1,R,1,R,0,Z
+451404,Talmudical Seminary of Bobov,2012,New York,City: Large,No,Implied no,Implied no,Yes,15,R,15,R,0,Z
+451662,The Art Institute of Pittsburgh-Online Division,2012,Pennsylvania,City: Large,Yes,Yes,Implied no,Implied no,1143,R,366,R,777,R
+451909,Fortis College-Landover,2012,Maryland,Suburb: Large,No,Implied no,Implied no,Yes,293,R,34,R,259,R
+453215,Strayer University-New Jersey,2012,New Jersey,Suburb: Large,No,Yes,Yes,Implied no,91,R,39,R,52,R
+454184,The King’s College,2012,New York,City: Large,No,Yes,Implied no,Implied no,58,R,22,R,36,R
+455196,Jersey College,2012,New Jersey,Suburb: Large,No,Implied no,Implied no,Yes,523,R,65,R,458,R
+455257,Yeshiva of Machzikai Hadas,2012,New York,City: Large,No,Implied no,Implied no,Yes,30,R,30,R,0,Z
+455804,Institute of World Politics,2012,District of Columbia,City: Large,No,Implied no,Implied no,Yes,45,R,36,R,9,R
+455813,Pontifical John Paul II Institute for Studies on Marriage and Family,2012,District of Columbia,City: Large,No,Implied no,Implied no,Yes,23,R,10,R,13,R
+456542,The Commonwealth Medical College,2012,Pennsylvania,City: Small,No,Implied no,Implied no,Yes,39,R,20,R,19,R
+459745,The Chicago School of Professional Psychology at Washington DC,2012,District of Columbia,City: Large,No,Implied no,Yes,Implied no,,,,,,
+459994,Strayer University-Global Region,2012,District of Columbia,City: Large,No,Yes,Yes,Implied no,494,R,160,R,334,R
+461014,Mildred Elley-New York Campus,2012,New York,City: Large,No,Implied no,Implied no,Yes,282,R,28,R,254,R
+461847,Mesivta Keser Torah,2012,New Jersey,Suburb: Large,No,Implied no,Implied no,Yes,1,R,1,R,0,Z
+462080,DeVry University's Keller Graduate School of Management-Maryland,2012,Maryland,City: Small,No,Implied no,Yes,Implied no,39,R,24,R,15,R
+462114,DeVry College of New York's Keller Graduate School of Management,2012,New York,City: Large,No,Implied no,Yes,Implied no,190,R,96,R,94,R
+462211,DeVry University's Keller Graduate School of Management-New Jersey,2012,New Jersey,Suburb: Large,No,Implied no,Yes,Implied no,31,R,13,R,18,R
+462372,ITT Technical Institute-Hanover,2012,Maryland,Suburb: Large,No,Implied no,Implied no,Yes,,,,,,
+462406,University of Phoenix-Delaware Campus,2012,Delaware,City: Small,No,Yes,Yes,Implied no,,,,,,
+475510,Christie's Education,2012,New York,City: Large,No,Implied no,Implied no,Yes,42,R,2,R,40,R
+476601,Bais HaMedrash and Mesivta of Baltimore,2012,Maryland,Suburb: Large,No,Implied no,Implied no,Yes,9,R,9,R,0,Z
+476692,Yeshiva Gedolah Zichron Leyma,2012,New Jersey,Suburb: Large,No,Implied no,Implied no,Yes,11,R,11,R,0,Z
+476717,Be'er Yaakov Talmudic Seminary,2012,New York,Suburb: Large,No,Implied no,Implied no,Yes,25,R,25,R,0,Z
+479549,ITT Technical Institute-Philadelphia,2012,Pennsylvania,City: Large,No,Implied no,Implied no,Yes,,,,,,
+479558,ITT Technical Institute-Marlton,2012,New Jersey,Suburb: Large,No,Implied no,Implied no,Yes,,,,,,
+479956,Pennsylvania State University-World Campus,2012,Pennsylvania,Suburb: Small,Yes,Yes,Yes,Implied no,1568,R,738,R,830,R
+480091,Bryant & Stratton College-Online,2012,New York,Suburb: Large,Yes,Yes,Implied no,Implied no,314,R,41,R,273,R
+480134,Elizabethtown College School of Continuing and Professional Studies,2012,Pennsylvania,Suburb: Large,No,Yes,Yes,Implied no,141,R,44,R,97,R
+480189,Mercyhurst University-North East Campus,2012,Pennsylvania,Town: Fringe,No,Implied no,Implied no,Yes,355,R,160,R,195,R
